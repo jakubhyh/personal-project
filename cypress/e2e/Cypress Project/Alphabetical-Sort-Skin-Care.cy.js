@@ -40,5 +40,3 @@ describe('Product Sorting Verification', () => {
     });
   
 });
-
-  
